@@ -1,0 +1,41 @@
+### Evaluation Criteria Table
+
+ Evaluation Criteria | Achieved (Combined Project)
+---------------------|------------------------------
+ **Select, Transform, and Create Relevant Variables** |
+ CE1: Identification of categorical variables | Y
+ CE2: Transformation of categorical variables | Y
+ CE3: Creation of new variables | Y
+ CE4: Mathematical transformations of distributions | Y
+ CE5: Normalization of variables | Y
+ **Define the Strategy for Developing a Supervised Learning Model** |
+ CE1: Strategy to meet a business need | Y
+ CE2: Selection of relevant target variables | Y
+ CE3: Verification of absence of data leakage | Y
+ CE4: Testing multiple algorithms | Y
+ **Evaluate the Performance of Supervised Learning Models** |
+ CE1: Selection of an appropriate metric | Y
+ CE2: Exploration of other performance indicators | Y
+ CE3: Splitting the data into train/test sets | Y
+ CE4: Implementation of a baseline model | Y
+ CE5: Consideration of class imbalance | Y
+ CE6: Hyperparameter optimization | Y
+ CE7: Cross-validation | Y
+ CE8: Presentation of model results | Y
+ CE9: Analysis of feature importance | Y
+ **Maintain Technical Measures for Comparison and Control** |
+ MT1: Calculation and comparison of AUC | Y
+ MT2: Calculation and comparison of accuracy | Y
+ **Hyperparameter Optimization via GridSearchCV or Equivalent** |
+ OP1: Use of GridSearchCV | Y
+ OP2: Testing hyperparameters and cross-validation | Y
+ **Monitor Overfitting** |
+ OF1: Comparison of train/test performance | Y
+ OF2: Checking for abnormally high scores | Y
+ **Modeling Approach with Cross-Validation** |
+ CV1: Use of cross-validation | Y
+ CV2: Synthesis of results and ROC curves | Y
+ **Business Score for Optimization** |
+ SM1: Business cost function | Y
+ SM2: Comparison of business scores | Y
+ SM3: Optimization of decision threshold | Y
