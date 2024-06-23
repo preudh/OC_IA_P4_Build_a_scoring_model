@@ -1,0 +1,41 @@
+### Tableau des critères d'évaluation
+
+ Critère d'évaluation | Réalisé (Projet combiné)
+----------------------|--------------------------
+ **Sélectionner, transformer et créer les variables pertinentes** |
+ CE1 : Identification des variables catégorielles | Y
+ CE2 : Transformation des variables catégorielles | Y
+ CE3 : Création de nouvelles variables | Y
+ CE4 : Transformations mathématiques des distributions | Y
+ CE5 : Normalisation des variables | Y
+ **Définir la stratégie d’élaboration d’un modèle d’apprentissage supervisé** |
+ CE1 : Stratégie pour répondre à un besoin métier | Y
+ CE2 : Choix des variables cibles pertinentes | Y
+ CE3 : Vérification de l'absence de data leakage | Y
+ CE4 : Test de plusieurs algorithmes | Y
+ **Évaluer les performances des modèles d’apprentissage supervisé** |
+ CE1 : Choix d’une métrique adaptée | Y
+ CE2 : Exploration d'autres indicateurs de performance | Y
+ CE3 : Séparation des données en train/test | Y
+ CE4 : Mise en place d'un modèle de référence | Y
+ CE5 : Prise en compte du déséquilibre des classes | Y
+ CE6 : Optimisation des hyper-paramètres | Y
+ CE7 : Validation croisée | Y
+ CE8 : Présentation des résultats des modèles | Y
+ CE9 : Analyse de l’importance des variables | Y
+ **Maintenir des mesures techniques pour comparaison et contrôle** |
+ MT1 : Calcul et comparaison des AUC | Y
+ MT2 : Calcul et comparaison des accuracy | Y
+ **Optimisation des hyperparamètres via GridSearchCV ou équivalent** |
+ OP1 : Utilisation de GridSearchCV | Y
+ OP2 : Test des hyperparamètres et cross-validation | Y
+ **Surveiller l'overfitting** |
+ OF1 : Comparaison des performances sur train/test | Y
+ OF2 : Vérification des scores anormalement élevés | Y
+ **Démarche de modélisation avec Cross-Validation** |
+ CV1 : Utilisation de la cross-validation | Y
+ CV2 : Synthèse des résultats et courbes ROC | Y
+ **Score “métier” pour l'optimisation** |
+ SM1 : Fonction de coût métier | Y
+ SM2 : Comparaison des scores “métier” | Y
+ SM3 : Optimisation du seuil de décision | Y
